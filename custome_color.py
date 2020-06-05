@@ -1,5 +1,5 @@
 from os import path
-data_dir = '/home/hsher/data'
+data_dir = '/cellar/users/hsher/Data/popgen'
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
