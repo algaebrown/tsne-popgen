@@ -18,7 +18,7 @@ ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_15900201
 ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1588362966620/work
 ipython-genutils==0.2.0
 jedi==0.17.0
-joblib==0.15.1
+joblib==1.2.0
 jupyter-client==6.1.3
 jupyter-core==4.6.3
 kiwisolver==1.2.0
