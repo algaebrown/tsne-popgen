@@ -2,7 +2,7 @@ anndata==0.7.3
 asciitree==0.3.3
 backcall==0.1.0
 bcolz==1.2.1
-certifi==2020.4.5.1
+certifi==2022.12.7
 cycler==0.10.0
 Cython==0.29.19
 dask==2.16.0
